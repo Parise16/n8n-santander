@@ -22,8 +22,9 @@
 ## 🔗 2. Link do Notebook Compartilhado
 
 - **Caderno no Gemini Notebook / Google NotebookLM:**  
-  👉 [Acessar Caderno de Estudos: Fundamentos Cloud AWS](https://notebooklm.google.com/notebook/dio-aws-cloud-foundations-expert)  
-  *(Nota de visualização: o caderno está compartilhado com acesso público para visualização de fontes e histórico de interações. Se preferir criar uma cópia na sua conta Google, siga as instruções da seção [Como Reproduzir do Zero](#-8-como-reproduzir-do-zero-no-notebooklm)).*
+  👉 [Acessar Caderno de Estudos: Fundamentos Cloud AWS](https://notebook.google.com/notebook/17074776-4a4a-4eca-a90f-fbb12d08f373)  
+  *(Caderno público com todas as fontes curadas, histórico de interações e materiais do Estúdio integrados).*
+
 
 ---
 
